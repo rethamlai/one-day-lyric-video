@@ -8,4 +8,4 @@ A lyric music visualiser built with Adobe After Effects and synced with the song
 
 ## Sample screenshots
 ![alt text](https://github.com/rethamlai/one-day-lyric-video/blob/main/Sample/s1.png?raw=true)
-![alt text](https://github.com/rethamlai/one-day-lyric-video/blob/main/Sample/s2.png?raw=true)
+![alt text](https://github.com/rethamlai/one-day-lyric-video/blob/main/Sample/s3.png?raw=true)
